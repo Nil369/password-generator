@@ -65,7 +65,7 @@ Feel free to fork this repository, raise issues, or submit pull requests. Contri
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/Nil369/password-generator/blob/master/LICENSE).
 
 ---
 
