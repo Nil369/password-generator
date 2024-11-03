@@ -59,9 +59,29 @@ To get a local copy of the app up and running, follow these steps.
 - **Expo Router**: Enhanced the app with seamless routing and navigation.
 - **Password Logic**: Implemented a password generator function with custom options.
 
+## 📥 Download & Install
+
+To get started with the app, download the APK from the latest release:
+
+**[Download the latest release](https://github.com/Nil369/password-generator/releases/tag/v1.0.0)**
+
+1. **Download the APK**: Click the link above to download the latest version of the app.
+2. **Install the App**:
+   - On your Android device, go to **Settings > Security**, and enable **Install from Unknown Sources**.
+   - Open the APK file and follow the prompts to install.
+
+> **Note**: This APK is intended for Android devices only.
+
 ## 🤝 Contributing
 
-Feel free to fork this repository, raise issues, or submit pull requests. Contributions are always welcome!
+Contributions are welcome! Whether it’s a bug fix, feature enhancement, or documentation update, feel free to fork the repository and submit a pull request. Let's make this project even better together! 🚀
+
+1. **Fork the Repo**: Click on the fork button in the upper right corner of this page.
+2. **Create Your Branch**: (`git checkout -b feature/AmazingFeature`)
+3. **Commit Your Changes**: (`git commit -m 'Add some AmazingFeature'`)
+4. **Push to the Branch**: (`git push origin feature/AmazingFeature`)
+5. **Open a Pull Request**
+   
 
 ## 📜 License
 
